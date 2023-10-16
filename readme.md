@@ -17,4 +17,4 @@ npm run build
 
 Project Link [verecel-wave-shaders](https://wave-shaders.vercel.app/)
 
-![](https://github.com/mesqme/waterfalls/blob/main/waterfalls.JPG)
+![](https://github.com/mesqme/wave-shaders/blob/main/wave-shaders.mp4)
