@@ -1,0 +1,54 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+html
+{
+    background: #1e1a20;
+}
+
+.webgl
+{
+    position: fixed;
+    top: 0;
+    left: 0;
+    outline: none;
+}
+
+
+.section
+{
+    display: flex;
+    text-align: center;
+    align-items: center;
+    height: 100vh;
+    position: relative;
+    font-family: 'Cabin', sans-serif;
+    color: #ffeded;
+    text-transform: uppercase;
+    font-size: 4vmin;
+    padding-left: 20%;
+    padding-right: 20%;
+}
+
+section:nth-child(odd)
+{
+    justify-content: flex-end;
+}
+
+
+.sign-in-container {
+    position: fixed;
+    bottom: 2vmin;
+    right: 2vmin;
+    background-color: transparent;
+  }
+  
+.sign-in-text {
+    font-family: 'Cabin', sans-serif;
+    font-size: 2vmin;
+    text-transform: uppercase;
+    color: #fff;
+}
